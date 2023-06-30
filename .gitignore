@@ -1,4 +1,5 @@
 vendor
+Simple_MD_Compiler.code-workspace
 
 tests/FIXTURES/build
 !tests/FIXTURES/build/.gitkeep
